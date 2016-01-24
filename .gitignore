@@ -1,0 +1,5 @@
+.vagrant
+output/*
+*.py[cod]
+cache
+.cache
